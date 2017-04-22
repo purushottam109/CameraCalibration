@@ -4,3 +4,7 @@ calibration2Dto3D.m contains a Matlab function, which computes the relative disp
 frame and the camera frame and the intrinsic camera parameter matrix K ∈ SL(3). 
 
 We use 3-D coordinates X of n points in the world coordinate frame and their image (pixel) coordinates in x as the parameters for calibration
+
+The calibrationEquation file contains the derived equation for the calibration.
+
+The CameraCalibration file explains the concept using the Pinhole camera.
